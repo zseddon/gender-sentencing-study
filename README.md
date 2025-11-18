@@ -8,3 +8,14 @@ gender disparities in sentencing outcomes. It includes:
 - `/src/analysis.py` – a starter Python analysis script
 
 ## Project Structure
+├── data/
+│ └── gender_sentencing_study.csv
+├── docs/
+│ └── data_dictionary.md
+├── src/
+│ └── analysis.py
+└── README.md
+
+## Purpose
+This repository is intended for statistical analysis, reproducible research,
+and exploratory modeling around sentencing fairness and gender disparities.
